@@ -13,7 +13,7 @@ The goal is to transform raw banking data into **actionable insights** while ens
 
 ## 📊 Dataset
 The dataset comes from Kaggle:  
-👉 [Bank Transactions Dataset]([[https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation])  
+👉 [Bank Transactions Dataset]([https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation])  
 
 It contains customer demographics, account balances, and transaction details.  
 
